@@ -1,2 +1,2 @@
-# ma-ana
+# mañana
 mañana
